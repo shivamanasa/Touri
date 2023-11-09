@@ -1,0 +1,13 @@
+#btn1 {
+    width: 200px;
+    color: whitesmoke;
+    height: 40px;
+    margin-top: 29px;
+    margin-left: 150px;
+}
+*{
+    background-color: rgb(240, 240, 232);
+}
+.card{
+    background-color: rgb(240, 240, 232);;
+}
